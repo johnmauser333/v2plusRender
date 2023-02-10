@@ -6,7 +6,7 @@
             "settings": {
                 "clients": [
                     {
-                        "id": "UUID",
+                        "id": "d8faea5a-c6a7-4e1a-a349-3094fc9980d0",
                         "security": "chacha20-poly1305",
                         "alterId": 0
                     }
